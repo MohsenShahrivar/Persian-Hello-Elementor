@@ -1,6 +1,6 @@
 === Hello Elementor ===
 
-Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
+Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet, worldwillweb
 Requires at least: 4.7
 Tested up to: 5.6
 Stable tag: 2.4.1
@@ -8,7 +8,7 @@ Version: 2.4.1
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Tags: custom-menu, custom-logo, featured-images, rtl-language-support, threaded-comments, translation-ready
+Tags: custom-menu, custom-logo, featured-images, rtl-language-support, threaded-comments, translation-ready, persian-language-support
 
 A lightweight, plain-vanilla theme for Elementor page builder.
 
@@ -95,6 +95,7 @@ Source: https://stocksnap.io/photo/4B83RD7BV9
 
 = 2.4.1 - 2021-07-07 =
 * Fix: Hello Theme Header & Footer experiment should be inactive for existing sites
+* additional Fix : add Persian Font / ESTEDAD https://github.com/aminabedi68/Estedad
 
 = 2.4.0 - 2021-06-29 =
 * New: Introducing Header and Footer site elements as an Elementor Experiment
